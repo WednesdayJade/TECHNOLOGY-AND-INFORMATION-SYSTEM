@@ -1,5 +1,5 @@
 # My GitHub E-Portfolio
-Welcome to my GitHub e-portfolio for the 2023/2024 academic year. This portfolio showcases my work, reflections, and progress in the Technology and Information System (TIS) course and other related subjects.
+Welcome to my GitHub e-portfolio for the 2023/2024 academic year. This portfolio showcases my work, reflections, and progress in the Technology and Information System (TIS) course.
 
 ## About Me
 - **Name**: Liang Tianqi
