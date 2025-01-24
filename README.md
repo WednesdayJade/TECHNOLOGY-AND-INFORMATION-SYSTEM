@@ -29,8 +29,7 @@ Below is a record of my assignments and projects for each course this semester. 
 
 #### Assignment 3
 - **Description**: Assignment 3
-- **Reflection**: I plan to develop my project management and leadership skills by joining university clubs and exclusive team assignments.
--                 Interacting with industry professionals will ensure up-to-date knowledge of current trends, also.
+- **Reflection**: I plan to develop my project management and leadership skills by joining university clubs and exclusive team assignments. Interacting with industry professionals will ensure up-to-date knowledge of current trends, also.
 - **File**: [Link to Assignment 3 PDF](./Assignment_3.pdf)
 
 #### Assignment 4
