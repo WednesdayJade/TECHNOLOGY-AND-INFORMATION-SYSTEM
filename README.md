@@ -22,4 +22,20 @@ Below is a record of my assignments and projects for each course this semester. 
 - **Reflection**: This assignment allowed me to practice my group collaboration skills and learn how to design a poster.
 - **File**: [Link to Poster PDF](./Poster.pdf)
 
+#### Presentation slides
+- **Description**: A presentation slides for design thinking.
+- **Reflection**: This slide is the result of the collaboration between me and my teammates. Each of us is responsible for different parts and we complete it together through collaboration.
+- **File**: [Link to Slides PDF](./SMART T-SHIRT PPT.pdf)
+
+#### Assignment 3
+- **Description**: Assignment 3
+- **Reflection**: I plan to develop my project management and leadership skills by joining university clubs and exclusive team assignments.
+-                 Interacting with industry professionals will ensure up-to-date knowledge of current trends, also.
+- **File**: [Link to Assignment 3 PDF](./Assignment 3 TIS.pdf)
+
+#### Assignment 4
+- **Description**: Assignment 4
+- **Reflection**: This assignment allowed me to have a more detailed understanding of the types and functions of various smart furniture and feel the rapid advancement of science and technology.
+- **File**: [Link to Assignment 4 PDF](./Assignment 4.pdf)
+
 Thank you for visiting my e-portfolio! Feel free to explore my projects and reflections.
