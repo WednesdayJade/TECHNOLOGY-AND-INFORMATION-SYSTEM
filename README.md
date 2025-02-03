@@ -37,4 +37,9 @@ Below is a record of my assignments and projects for each course this semester. 
 - **Reflection**: This assignment allowed me to have a more detailed understanding of the types and functions of various smart furniture and feel the rapid advancement of science and technology.
 - **File**: [Link to Assignment 4 PDF](./Assignment_4.pdf)
 
+#### Report
+- **Description**: Report
+- **Reflection**: This assignment allowed me to experience the power of teamwork and imagination. Our team members brainstormed, came up with various creative ideas, and worked together to create this result.
+- **File**: [Link to Report PDF](./Report.pdf)
+
 Thank you for visiting my e-portfolio! Feel free to explore my projects and reflections.
